@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Luis
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning road to full-stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on almost anything related to tech
+- 📫 How to reach me
+  - luisalfonsoperezrojo@gmail.com   
 
 <!---
 Wissako/Wissako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
