@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luis
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning road to full-stack
+- 👋 Hi, I’m @Luis/Wiss
+- 👀 I’m interested in coding, cybersecurity and most likely anything related to it
+- 🌱 I’m currently learning. Road to full-stack
 - 💞️ I’m looking to collaborate on almost anything related to tech
 - 📫 How to reach me
   - luisalfonsoperezrojo@gmail.com   
