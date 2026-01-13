@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, cybersecurity and most likely anything related to it
 - 🌱 I’m currently learning. Road to full-stack
 - 💞️ I’m looking to collaborate on almost anything related to tech
+- 🇪🇸(Native)/🇬🇧(Fluent)
 - 📫 How to reach me
   - luisalfonsoperezrojo@gmail.com   
 
