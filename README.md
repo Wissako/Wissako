@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on almost anything related to tech
 - 🇪🇸(Native)/🇬🇧(Fluent)
 - 📫 How to reach me
-  - luisalfonsoperezrojo@gmail.com   
+  - luisalfonsoperezrojo@gmail.com
+  - perezrojoluisalfonso@gmail.com   
 
 <!---
 Wissako/Wissako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
