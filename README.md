@@ -7,7 +7,7 @@
   <br />
 
   [![Status](https://img.shields.io/badge/Status-Actively_Looking_for_Jobs-brightgreen?style=for-the-badge&logo=briefcase)](mailto:luisalfonsoperezrojo@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Spain-red?style=for-the-badge&logo=spain)](https://github.com/Wiss)
+  [![Location](https://img.shields.io/badge/Location-Spain-red?style=for-the-badge&logo=spain)](https://github.com/Wissako)
 
 </div>
 
