@@ -5,7 +5,8 @@
 - 🇪🇸(Native)/🇬🇧(Fluent)
 - 📫 How to reach me
   - luisalfonsoperezrojo@gmail.com
-  - perezrojoluisalfonso@gmail.com   
+  - perezrojoluisalfonso@gmail.com
+- 👀 looking for job
 
 <!---
 Wissako/Wissako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
