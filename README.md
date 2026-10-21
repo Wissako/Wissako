@@ -1,14 +1,25 @@
-- 👋 Hi, I’m @Luis/Wiss
-- 👀 I’m interested in coding, cybersecurity and most likely anything related to it
-- 🌱 I’m currently learning. Road to full-stack
-- 💞️ I’m looking to collaborate on almost anything related to tech
-- 🇪🇸(Native)/🇬🇧(Fluent)
-- 📫 How to reach me
-  - luisalfonsoperezrojo@gmail.com
-  - perezrojoluisalfonso@gmail.com
-- 👀 looking for job
+<div align="center">
 
-<!---
-Wissako/Wissako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  # 👨‍💻 Luis Alfonso Pérez Rojo
+  
+  **`Cybersecurity Enthusiast` | `Aspiring Full-Stack Developer` | `Open Source Contributor`**
+
+  <br />
+
+  [![Status](https://img.shields.io/badge/Status-Actively_Looking_for_Jobs-brightgreen?style=for-the-badge&logo=briefcase)](mailto:luisalfonsoperezrojo@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Spain-red?style=for-the-badge&logo=spain)](https://github.com/Wiss)
+
+</div>
+
+---
+
+### 🚀 Sobre mí
+
+```yaml
+Perfil:
+  Nombre: Luis Alfonso
+  Intereses: Ciberseguridad, Desarrollo Web Full-Stack, Tecnología
+  Objetivo: Conseguir mi primera oportunidad profesional en el sector Tech
+  Idiomas:
+    - Español: Nativo 🇪🇸
+    - Inglés: Fluido (Fluent) 🇬🇧
