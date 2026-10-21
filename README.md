@@ -18,7 +18,7 @@
 ```yaml
 Perfil:
   Nombre: Luis Alfonso
-  Intereses: Ciberseguridad, Desarrollo Web Full-Stack, Tecnología
+  Intereses: Ciberseguridad, Desarrollo Full-Stack, Tecnología
   Objetivo: Conseguir mi primera oportunidad profesional en el sector Tech
   Idiomas:
     - Español: Nativo 🇪🇸
